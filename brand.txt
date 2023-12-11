@@ -1,0 +1,8 @@
+9
+6#mRNA-1273#Astra-Zeneca#92.3#United Kingdom#110#3
+3#72G4OR9#CALCIUM CARBONATE#33.46#Indonesia#9550#3
+4#29S2UM4#Johnson&Johnson#65.9#Brazil#9800#14
+2#40W6GS3#Moderna#92.21#East Timor#7750#6
+1#71A0ON5#Pfizer-BioNTech#85.21#Russia#8700#13
+5#25N9SL5#Potassium Nitrate and Sodium Fluoride#40.16#Philippines#6200#14
+8#U23J02A#Sputnik#92.4#Russia#40#2

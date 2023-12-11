@@ -1,0 +1,14 @@
+Sat Oct 02 10:35:27 SAST 2021 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sat Oct 02 10:35:27 SAST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-017c-4024-4725-ffffe834200d 
+on database directory /Users/thandeka.matrose/Documents/MATRIC/informations technology./P A T 2021/COVIDStrategist/resources/JavaDB/COVIDStrategistDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c29bfd 
+Loaded from file:/Users/thandeka.matrose/Documents/MATRIC/informations%20technology./P%20A%20T%202021/COVIDStrategist/resources/JavaDB/javadb/lib/derby.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.5+10
+user.dir=/Users/thandeka.matrose/Documents/MATRIC/informations technology./P A T 2021/COVIDStrategist/resources/JavaDB/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=/Users/thandeka.matrose/Documents/MATRIC/informations technology./P A T 2021/COVIDStrategist/resources/JavaDB
+Database Class Loader started - derby.database.classpath=''
